@@ -2,7 +2,7 @@
 /* CSS Document */
 
 body {
-    background-image: url('/p1/images/color-backgroud.jpg');
+    background-image: url('color-backgroud.jpg');
 	background-color:black;
 	background-size:100%;
 	margin: 0;
@@ -19,10 +19,8 @@ p {
 	font-weight:bold;
 	font-size:18px;
 }
-
 h2 {
 	font-size:28px;
-	text-align:center;
 	font-family: 'Oswald', sans-serif;
 }
 h3 {
@@ -50,7 +48,7 @@ h3 {
 	list-style-type:none;
 	position:absolute;
 	left:850px;
-	top:100px;
+	top:230px;
 }
 #div1 ul li {
 	display:inline-block;

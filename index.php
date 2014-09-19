@@ -1,18 +1,25 @@
 <!DOCTYPE html>
 <html>
 <body>
-<link rel="stylesheet" href="stylesheet.css" type="text/css"/>
+
+<head>
+<meta charset="UTF-8">
+<title>Ashley Daniell</title>
+<link rel="stylesheet" href="stylesheet.css" type="text/css">
 <link href='http://fonts.googleapis.com/css?family=Luckiest+Guy' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Oswald:400,700|Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
+</head>
+
 
 <div id="container">
 
 <div id="div1">
 <h1>Ashley Daniell</h1>
-<img class="img-border" src="/p1/images/me.png" width="210" height="300" />
+<h2>Dynamic Web Applications Portfolio</h2>
+<img class="img-border" src="me.png" alt="ashley-daniell" width="210" height="300"/>
+
 
 <ul>
-<h2>Dynamic Web<br/> Applications Portfolio</h2>
 <li>
 <h2>Project 2</h2>
 <p><a href="http://p2.ashleydaniell.com">View</a>&nbsp;&nbsp;
@@ -37,7 +44,7 @@
 <div id="div2">
 
 <h3>In 2+ sentences describe who you are and what you do.</h3>
-<p>My name is Ashley Daniell and I am from Medford, MA. I graduted in 2012 from the University of Massachusetts Dartmouth with a BA in Crime &amp; Justice Studies. I've always been interested in computers and technology, and I sometimes regret that I didn't major in something like Computer Science. But now I have a wonderful job as a web developer/technologist at Harvard Business School. I first started just copying and pasting content 4 years ago on an Intranet migration project, which then triggered my interest in web development. </p>
+<p>My name is Ashley Daniell and I am from Medford, MA. I graduted in 2012 from the University of Massachusetts Dartmouth with a BA in Crime and Justice Studies. I've always been interested in computers and technology, and I sometimes regret that I didn't major in something like Computer Science. But now I have a wonderful job as a web developer/technologist at Harvard Business School. I first started just copying and pasting content 4 years ago on an Intranet migration project, which then triggered my interest in web development. </p>
 
 <h3>Why are you taking this course?</h3>
 <p>I am taking this course to further expand my web development skills, learn how dynamic applications work, and to be able to understand and build a page with personilzation. I am also working towards completing the requirements for the Professional Graduate Web Technologies Certificate.</p>
