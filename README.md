@@ -13,6 +13,6 @@ There is no demo requirement for Project 1.
 No details needed for Project 1. 
 
 ## Outside code 
-No outside code
+No outside code.
 
 
