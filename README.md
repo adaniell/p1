@@ -13,6 +13,6 @@ There is no demo requirement for Project 1.
 No details needed for Project 1. 
 
 ## Outside code 
-I'm using google fonts, but I don't think this counts as outside code. 
+No outside code
 
 
