@@ -2,17 +2,19 @@
 /* CSS Document */
 
 body {
-    background-image: url('/images/color-backgroud.jpg');
+    background-image: url('/p1/images/color-backgroud.jpg');
 	background-color:black;
 	background-size:100%;
-	background-repeat:no-repeat;
+	xbackground-repeat:no-repeat;
+	margin: 0;
+    padding: 0;
 }
 
 h1 {
 	color:#c21250;
 	font-family: 'Oswald', sans-serif;
 	font-size:48px;
-	margin-bottom:-5px
+	margin-bottom:20px
 }
 p {
 	font-family:'Open Sans Condensed', sans-serif;
@@ -25,39 +27,55 @@ h2, h3 {
 }
 h2 {
 	font-size:28px;
+	text-align:center;
 }
 
 .img-border {
 	border-radius:10px;
 }
 
+#container {
+	width:100%;
+	margin:0 auto;
+}
 
 #div1 {
-	float:left;
 	padding:0 20px 20px 20px;
-	width:300px;
+	width:35%;
 	background-color:white;
-	margin-left:50px;
-	margin-top:30px;
+	margin:0 auto;
 	border-radius:20px;
 	background: rgba(255, 255, 255, 0.7);
-	text-align:center;
-	
+	margin-bottom:20px;
+
 }
+#div1 ul {
+	list-style-type:none;
+	position:absolute;
+	left:850px;
+	top:100px;
+}
+#div1 ul li {
+	display:inline-block;
+	margin-right:25px;
+}	
 
 #div2 {
-	float:right;
-	width:700px;
+	width:60%;
 	padding:40px;
 	border-radius:20px;
-	margin-top:30px;
+	margin:0 auto;
 	background: rgba(255, 255, 255, 0.7);
-	margin-right:50px;
-	
+	margin-bottom:20px;
+
+
 }
-#div2 h3 {
-	margin-top:-10px;
-}
+
 #div2 p {
-	margin-bottom:35px;
+	margin-bottom:30px;
+	font-size:22px;
+}
+h3 {
+	color:#c21250;
+	font-size:24px;
 }
