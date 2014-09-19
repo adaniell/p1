@@ -11,8 +11,6 @@
 <h1>Ashley Daniell</h1>
 <img class="img-border" src="/p1/images/me.png" width="210" height="300" />
 
-
-
 <ul>
 <h2>Dynamic Web<br/> Applications Portfolio</h2>
 <li>
@@ -34,8 +32,6 @@
 </li>
 </ul>
 
-
-
 </div>
 
 <div id="div2">
@@ -56,8 +52,10 @@
 
 <p>I am at the point in my life where I really want to buckle down and focus on Web Development as my career. This class will take me one step closer and I'm very excited about it. Although I love my position at HBS, I am currently contracting under my own LLC, and I'm hoping the Certificate will help me get a full time position.</p>
 <p>I recently received an "In Recognition" Award recommended by my Director at work, for the last project I was on. It was a re-design of Professor Michael Porter's HBS website, which was an ugly static site for many many years. I was dedicated to this project for about 8 months, so it felt amazing to be recognized for all of the hard work I put into it. <br/>Check it out! <a href="http://www.isc.hbs.edu" target="_blank"> Institute for Strategy &amp; Competitiveness</a>   </p>
+
 </div>
 
 </div>
+
 </body>
 </html>

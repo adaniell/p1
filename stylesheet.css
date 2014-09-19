@@ -5,11 +5,9 @@ body {
     background-image: url('/p1/images/color-backgroud.jpg');
 	background-color:black;
 	background-size:100%;
-	xbackground-repeat:no-repeat;
 	margin: 0;
     padding: 0;
 }
-
 h1 {
 	color:#c21250;
 	font-family: 'Oswald', sans-serif;
@@ -21,24 +19,24 @@ p {
 	font-weight:bold;
 	font-size:18px;
 }
-h2, h3 {
-	font-family: 'Oswald', sans-serif;
-	
-}
+
 h2 {
 	font-size:28px;
 	text-align:center;
+	font-family: 'Oswald', sans-serif;
 }
-
+h3 {
+	color:#c21250;
+	font-size:24px;
+	font-family: 'Oswald', sans-serif;
+}
 .img-border {
 	border-radius:10px;
 }
-
 #container {
 	width:100%;
 	margin:0 auto;
 }
-
 #div1 {
 	padding:0 20px 20px 20px;
 	width:35%;
@@ -47,7 +45,6 @@ h2 {
 	border-radius:20px;
 	background: rgba(255, 255, 255, 0.7);
 	margin-bottom:20px;
-
 }
 #div1 ul {
 	list-style-type:none;
@@ -59,7 +56,6 @@ h2 {
 	display:inline-block;
 	margin-right:25px;
 }	
-
 #div2 {
 	width:60%;
 	padding:40px;
@@ -67,15 +63,8 @@ h2 {
 	margin:0 auto;
 	background: rgba(255, 255, 255, 0.7);
 	margin-bottom:20px;
-
-
 }
-
 #div2 p {
 	margin-bottom:30px;
 	font-size:22px;
-}
-h3 {
-	color:#c21250;
-	font-size:24px;
 }
