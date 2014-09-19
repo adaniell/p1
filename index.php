@@ -49,7 +49,7 @@
 <p>I am taking this course to further expand my web development skills, learn how dynamic applications work, and to be able to understand and build a page with personilzation. I am also working towards completing the requirements for the Professional Graduate Web Technologies Certificate.</p>
 
 <h3>What previous experience do you have with programming?</h3>
-<p>Not that much, I would consider myself a beginner. I know the fundamentals of Javascript and some XSLT but have been mostly working with HTML &amp CSS. </p>
+<p>Not that much, I would consider myself a beginner. I know the fundamentals of Javascript and some XSLT but have been mostly working with HTML &amp; CSS. </p>
 
 <h3>Are you working on a Mac, PC, or some other platform?</h3>
 <p>I am working on a PC with Windows 7. I use a Mac at work for testing purposes and I found that I prefer the PC.</p>
